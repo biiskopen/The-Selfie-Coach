@@ -2,13 +2,6 @@
 # The Selfie Coach
 Get instant selfie coaching from Kylie J.
 
-Video: 
-
-[![Video Dries Depoorter](https://img.youtube.com/vi/UjiFmRX6A9k/0.jpg)](https://www.youtube.com/watch?v=UjiFmRX6A9k)
-
-Check my other projects, visit [Dries Depoorter](https://driesdepoorter.be).
-I'm an artist combining art and technology. Follow me also on [Instagram](https://instagram.com/driesdepoorter) and [X](https://twitter.com/driesdepoorter).
-
 This project combines 2 APIs: OpenAI GPT-4 vision preview and ElevenLabs.
 
 This project requires the creation of a virtual environment to manage dependencies in isolation. Additionally, you need to provide API keys for OpenAI and ElevenLabs. These keys should be stored in a `.env` file at the root of the project for security reasons.
